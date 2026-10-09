@@ -7,4 +7,4 @@ console.log(" third web")
 
 console.log("hi there")
 console.log("my name is levis")
-console.log("i am learning git and github")
+console.log("i am learning github")
